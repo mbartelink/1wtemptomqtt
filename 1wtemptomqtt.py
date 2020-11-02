@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # Temp_2.py
+# More information to be added here
 
 from ds18b20 import DS18B20	
 import time
